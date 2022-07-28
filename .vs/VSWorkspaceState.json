@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\assets\\sounds",
+    "\\src\\screens",
+    "\\src\\screens\\product",
+    "\\src\\screens\\user",
+    "\\src\\screens\\user\\screens"
+  ],
+  "SelectedNode": "\\src\\screens\\user\\UserContext.js",
+  "PreviewInSolutionExplorer": false
+}

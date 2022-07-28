@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "KhuatDaiAn_Ps16602_ASM",
+    "slug": "KhuatDaiAn_Ps16602_ASM",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "KhuatDaiAn_Ps16602_ASM"
+}
